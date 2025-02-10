@@ -1,6 +1,5 @@
 {
-  "name": "bd-challenge-v2",
-  "private": true,
+  "name": "@bryt-designs/shopify-app-challenge",
   "scripts": {
     "build": "remix vite:build",
     "dev": "shopify app dev",
@@ -67,5 +66,5 @@
   "overrides": {
     "@graphql-tools/url-loader": "8.0.16"
   },
-  "author": "kookikodes"
+  "author": "Bryt Designs"
 }
