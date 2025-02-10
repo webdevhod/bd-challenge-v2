@@ -1,5 +1,7 @@
 {
-  "name": "@bryt-designs/shopify-app-challenge",
+  "name": "@bryt-designs/create-shopify-app-challenge",
+  "version": "1.0.0",
+  "description": "Start template for building a shopify app.",
   "scripts": {
     "build": "remix vite:build",
     "dev": "shopify app dev",
@@ -17,6 +19,7 @@
     "graphql-codegen": "graphql-codegen",
     "vite": "vite"
   },
+  "files": ["./bin"],
   "type": "module",
   "engines": {
     "node": "^18.20 || ^20.10 || >=21.0.0"
