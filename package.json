@@ -1,6 +1,6 @@
 {
   "name": "@bryt-designs/create-shopify-app-challenge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Start template for building a shopify app.",
   "scripts": {
     "build": "remix vite:build",
@@ -19,7 +19,9 @@
     "graphql-codegen": "graphql-codegen",
     "vite": "vite"
   },
-  "files": ["./bin"],
+  "files": [
+    "./bin"
+  ],
   "type": "module",
   "engines": {
     "node": "^18.20 || ^20.10 || >=21.0.0"
@@ -45,6 +47,8 @@
     "@remix-run/eslint-config": "^2.15.0",
     "@remix-run/route-config": "^2.15.0",
     "@shopify/api-codegen-preset": "^1.1.1",
+    "@shopify/cli": "^3.75.0",
+    "@shopify/plugin-cloudflare": "^3.75.0",
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.2.0",
     "@types/react": "^18.2.31",
