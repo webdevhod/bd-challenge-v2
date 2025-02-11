@@ -1,6 +1,6 @@
 {
   "name": "@bryt-designs/create-shopify-app-challenge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Start template for building a shopify app.",
   "scripts": {
     "build": "remix vite:build",
