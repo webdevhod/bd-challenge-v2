@@ -57,6 +57,6 @@
 - [ ] A way to sort the reviews of a product by rating.
 - [ ] A theme app extension for rendering all the reviews for a product on a product page.
 - [ ] A theme app extension for rendering the star rating of a product.
-- [ ] A way to search trhough reviews for specific keywords.
+- [ ] A way to search though reviews for specific keywords.
 - [ ] A way for an admin to approve or disapprove reviews, which will determine whether or not the listed review appears on the site.
 - [ ] A way for the customer to edit a review.
